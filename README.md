@@ -8,20 +8,8 @@ This application demonstrates a simple full stack application with a front end i
 
 The user may enter any burger name to add it to the menu. The initial burger entry is added as available on the menu and placed on the left side of the screen. The user may then eat any burger by clicking on it, which moves it into the adjacent column and updates its status accordingly in the database.
 
+![Screen shot](public/assets/img/burgerpic.png) 
+
 # Demo
-The demo of the burger eating application can be found here.
+The demo of the burger eating application can be found <a href="https://mighty-escarpment-41370.herokuapp.com/">View the finished product on Heroku.</a>.
 
-# Installation
-To run the application locally, first clone this repository with the following command.
-
-git clone git@github.com/Acerva1978/Burger.git  
-Next, install the application dependencies.
-
-cd burger
-npm install
-Finally, run the node server locally.
-
-node server
-Now, open the local application on port 3000 at the URL: http://localhost:8001/.
-
-Enjoy and have a burger!
