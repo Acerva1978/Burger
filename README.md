@@ -11,5 +11,5 @@ The user may enter any burger name to add it to the menu. The initial burger ent
 ![Screen shot](public/assets/img/burgerpic.png) 
 
 # Demo
-The demo of the burger eating application can be found <a href="https://mighty-escarpment-41370.herokuapp.com/">View the finished product on Heroku.</a>.
+The demo of the burger eating application can be found <a href="https://evening-plains-55657.herokuapp.com/burgers">Here on Heroku.</a>.
 
